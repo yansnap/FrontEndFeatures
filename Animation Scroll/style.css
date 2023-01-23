@@ -1,0 +1,6 @@
+.scroll-tracker {
+    height: .5rem;
+    inset: 0 0 auto;
+    background-color: purple;
+    position: fixed;
+}
